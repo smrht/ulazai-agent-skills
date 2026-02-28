@@ -1,0 +1,7 @@
+interface:
+  display_name: "UlazAI point-and-shoot"
+  short_description: "Low-cost image/video API workflow for agents"
+  default_prompt: "Use $ulazai-point-and-shoot to integrate UlazAI image and video endpoints with model discovery, polling, and retries."
+
+policy:
+  allow_implicit_invocation: true
