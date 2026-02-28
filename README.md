@@ -50,21 +50,6 @@ curl -X GET https://ulazai.com/api/v1/models/image/ \
   -H "Authorization: Bearer $ULAZAI_API_KEY"
 ```
 
-## Search keywords
-
-Use these keywords when searching for this repository or skill:
-
-- UlazAI API
-- cheap AI image API
-- cheap AI video API
-- Nano Banana 2 API
-- Seedream 5.0 Lite API
-- Wan 2.6 API
-- Kling API
-- Veo API
-- Sora API
-- white-label AI generation
-
 ## Repository structure
 
 ```text
@@ -75,9 +60,3 @@ skills/
       ulazai_client.py
       ulazai_client.js
 ```
-
-## Security notes
-
-- Keep API keys server-side.
-- Do not commit keys to source control.
-- Rotate keys periodically.

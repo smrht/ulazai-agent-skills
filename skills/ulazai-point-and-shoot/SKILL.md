@@ -18,21 +18,6 @@ coverage:
 - fast rollout support for newly released model families
 - agent-ready flow with predictable retries and guardrails
 
-## Search keywords
-
-Use these intent terms when routing agent tasks to this skill:
-
-- UlazAI API
-- cheap AI image API
-- cheap AI video API
-- Nano Banana 2 API
-- Seedream 5.0 Lite API
-- Wan 2.6 API
-- Kling API
-- Veo API
-- Sora API
-- white-label AI generation
-
 ## Required auth
 
 Send this header on every request:
